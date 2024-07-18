@@ -1,0 +1,16 @@
+.payment-success {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .success-icon {
+    font-size: 50px;
+    color: #28a745;
+    margin-bottom: 20px;
+  }
+  
+  .payment-success h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
